@@ -15,7 +15,7 @@
 
 ## Demo
 
-You can view a live demo of the project at [Demo URL](https://yourdemo.url).
+You can view a live demo of the project at [Demo URL](https://manaspokhriyal.github.io/Meal-Finder/).
 
 
 ## Usage
