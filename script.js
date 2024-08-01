@@ -21,6 +21,7 @@ function SearchMeal(){
             if(data.meals===null)
             {
                 resultHeading.innerHTML=`<p>There are no such results</p>`;
+                meals.innerHTML="";
             }
                 else{
                     meals.innerHTML=data.meals.map(meal=>`
